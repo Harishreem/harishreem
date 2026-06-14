@@ -43,6 +43,6 @@ I am a Master of Science in Computer Science student at the University of Birmin
 
 ## 📬 Connect with Me
 
-* 💼 **LinkedIn:** [Your Profile Link Here]
+* 💼 **LinkedIn:** http://www.linkedin.com/in/harishreemahajan
 * 🐙 **GitHub:** You are already here! 
 * 📧 **Email:** harishree.mahajan@gmail.com
